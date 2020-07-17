@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Transaction" max_length="40" name="x_509812_concur_transaction" sizeclass="12" type="collection">
+        <element choice="3" label="Expense Sub Type" max_length="100" name="expense_sub_type" type="choice">
+            <choice/>
+        </element>
+        <element choice="3" label="Expense Type" max_length="100" name="expense_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Lodging" sequence="0" value="lodging"/>
+                <element inactive_on_update="false" label="Meal" sequence="1" value="meal"/>
+                <element inactive_on_update="false" label="Transportation" sequence="2" value="transportaion"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Report Id" max_length="32" name="report_id" reference="x_509812_concur_header" type="reference"/>
+        <element label="Report Name" max_length="100" name="report_name" type="string"/>
+        <element label="Total Amount" mandatory="true" max_length="40" name="total_amount" type="integer"/>
+        <index name="index">
+            <element name="report_id"/>
+        </index>
+    </element>
+</database>

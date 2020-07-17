@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_509812_concur.second_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>second_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-11 15:54:53</sys_created_on>
+        <sys_id>bf9de3bbdbb15010b69c80876896193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_509812_concur.second_user</sys_name>
+        <sys_package display_value="Concur" source="x_509812_concur">8bb2f933dbbd1010b69c80876896195b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concur">8bb2f933dbbd1010b69c80876896195b</sys_scope>
+        <sys_update_name>sys_user_role_bf9de3bbdbb15010b69c80876896193e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-11 15:54:53</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Concur">8bb2f933dbbd1010b69c80876896195b</application>
+        <file_path/>
+        <instance_id>2b900e35dba933043050ac44d496194d</instance_id>
+        <instance_name>dev86099</instance_name>
+        <name>sys_user_role_bf9de3bbdbb15010b69c80876896193e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_509812_concur.second_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>second_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-11 15:54:53</sys_created_on><sys_id>bf9de3bbdbb15010b69c80876896193e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_509812_concur.second_user</sys_name><sys_package display_value="Concur" source="x_509812_concur">8bb2f933dbbd1010b69c80876896195b</sys_package><sys_policy/><sys_scope display_value="Concur">8bb2f933dbbd1010b69c80876896195b</sys_scope><sys_update_name>sys_user_role_bf9de3bbdbb15010b69c80876896193e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-11 15:54:53</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>114425867</payload_hash>
+        <record_name>x_509812_concur.second_user</record_name>
+        <reverted_from/>
+        <source>cfb2b173dbbd1010b69c80876896195c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-11 15:54:53</sys_created_on>
+        <sys_id>bf9de3bbdbb15010b69c808768961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1733e96226d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-11 15:54:53</sys_updated_on>
+        <type>Role</type>
+        <update_guid>f79de3bb24b1501034981d298fca2444</update_guid>
+        <update_guid_history>f79de3bb24b1501034981d298fca2444:114425867</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_509812_concur.second_user">6896ae84db4a5010b69c8087689619b1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-12 05:22:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>4620f1c651c043ae83a1a038e1e712e4</sys_id>
+        <sys_metadata>bf9de3bbdbb15010b69c80876896193e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_509812_concur.second_user</sys_name>
+        <sys_package display_value="Concur" source="x_509812_concur">8bb2f933dbbd1010b69c80876896195b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Concur">8bb2f933dbbd1010b69c80876896195b</sys_scope>
+        <sys_scope_delete display_value="">0b49eba72e0e45b280b61edb98dc11f9</sys_scope_delete>
+        <sys_update_name>sys_user_role_bf9de3bbdbb15010b69c80876896193e</sys_update_name>
+        <sys_update_version display_value="sys_user_role_bf9de3bbdbb15010b69c80876896193e">bf9de3bbdbb15010b69c808768961944</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-12 05:22:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

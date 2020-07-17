@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="38276b98db469010b69c80876896195d" sys_domain="global" table="x_509812_concur_header" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 04:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f0276b98db469010b69c808768961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_509812_concur_header" name="x_509812_concur_header" sys_domain="global" view="Default view">38276b98db469010b69c80876896195d</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_509812_concur_header" sys_domain="global" view="Default view">87063280db8a5010b69c8087689619bb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 04:43:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 04:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc276b98db469010b69c808768961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_509812_concur_header" name="x_509812_concur_header" sys_domain="global" view="Default view">38276b98db469010b69c80876896195d</sys_ui_form>
+            <sys_ui_section caption="Approval" display_value="Approval" name="x_509812_concur_header" sys_domain="global" view="Default view">30276b98db469010b69c80876896195b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 04:43:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 04:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70276b98db469010b69c808768961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_509812_concur_header" name="x_509812_concur_header" sys_domain="global" view="Default view">38276b98db469010b69c80876896195d</sys_ui_form>
+            <sys_ui_section caption="Status" display_value="Status" name="x_509812_concur_header" sys_domain="global" view="Default view">f4276b98db469010b69c80876896195c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 04:43:31</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_509812_concur_header</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-13 04:43:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>38276b98db469010b69c80876896195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_509812_concur_header</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Concur" source="x_509812_concur">8bb2f933dbbd1010b69c80876896195b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Concur">8bb2f933dbbd1010b69c80876896195b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_38276b98db469010b69c80876896195d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-13 04:43:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

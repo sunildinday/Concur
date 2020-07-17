@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="report_name" label="Report Name" language="en" table="x_509812_concur_header">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>report_name</element>
+            <help/>
+            <hint/>
+            <label>Report Name</label>
+            <language>en</language>
+            <name>x_509812_concur_header</name>
+            <plural>Report Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-12 05:38:15</sys_created_on>
+            <sys_id>f41ae248db4a5010b69c8087689619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Report Name</sys_name>
+            <sys_package display_value="Concur" source="x_509812_concur">8bb2f933dbbd1010b69c80876896195b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Concur">8bb2f933dbbd1010b69c80876896195b</sys_scope>
+            <sys_update_name>sys_documentation_x_509812_concur_header_report_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-12 05:38:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
