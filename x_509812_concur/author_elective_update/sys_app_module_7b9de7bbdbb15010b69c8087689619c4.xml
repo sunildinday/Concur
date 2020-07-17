@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="JustForTest">bf9de3bbdbb15010b69c808768961948</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>seconds</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_509812_concur_second</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_509812_concur.second_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-11 15:54:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7b9de7bbdbb15010b69c8087689619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>seconds</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Concur" source="x_509812_concur">8bb2f933dbbd1010b69c80876896195b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concur">8bb2f933dbbd1010b69c80876896195b</sys_scope>
+        <sys_update_name>sys_app_module_7b9de7bbdbb15010b69c8087689619c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-11 15:54:53</sys_updated_on>
+        <timeline_page/>
+        <title>seconds</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Concur">8bb2f933dbbd1010b69c80876896195b</application>
+        <file_path/>
+        <instance_id>2b900e35dba933043050ac44d496194d</instance_id>
+        <instance_name>dev86099</instance_name>
+        <name>sys_app_module_7b9de7bbdbb15010b69c8087689619c4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="JustForTest">bf9de3bbdbb15010b69c808768961948</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>seconds</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_509812_concur_second</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_509812_concur.second_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-11 15:54:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7b9de7bbdbb15010b69c8087689619c4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>seconds</sys_name><sys_overrides/><sys_package display_value="Concur" source="x_509812_concur">8bb2f933dbbd1010b69c80876896195b</sys_package><sys_policy/><sys_scope display_value="Concur">8bb2f933dbbd1010b69c80876896195b</sys_scope><sys_update_name>sys_app_module_7b9de7bbdbb15010b69c8087689619c4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-11 15:54:53</sys_updated_on><timeline_page/><title>seconds</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>804260977</payload_hash>
+        <record_name>seconds</record_name>
+        <reverted_from/>
+        <source>cfb2b173dbbd1010b69c80876896195c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-11 15:54:53</sys_created_on>
+        <sys_id>3b9de7bbdbb15010b69c8087689619c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1733e9623670000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-11 15:54:53</sys_updated_on>
+        <type>Module</type>
+        <update_guid>739de7bbaeb1501063e901d3efbb40c7</update_guid>
+        <update_guid_history>739de7bbaeb1501063e901d3efbb40c7:804260977</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="seconds">e176ea84db4a5010b69c808768961923</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-12 05:22:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>4ad3daead4c44292a3e10ca7ac62a944</sys_id>
+        <sys_metadata>7b9de7bbdbb15010b69c8087689619c4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>seconds</sys_name>
+        <sys_package display_value="Concur" source="x_509812_concur">8bb2f933dbbd1010b69c80876896195b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Concur">8bb2f933dbbd1010b69c80876896195b</sys_scope>
+        <sys_scope_delete display_value="">0b49eba72e0e45b280b61edb98dc11f9</sys_scope_delete>
+        <sys_update_name>sys_app_module_7b9de7bbdbb15010b69c8087689619c4</sys_update_name>
+        <sys_update_version display_value="sys_app_module_7b9de7bbdbb15010b69c8087689619c4">3b9de7bbdbb15010b69c8087689619c7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-12 05:22:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

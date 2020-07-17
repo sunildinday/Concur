@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>First</name>
+        <order>100</order>
+        <roles>x_509812_concur.first_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-11 15:56:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>07fd6fbbdbb15010b69c8087689619e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>First</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Concur" source="x_509812_concur">8bb2f933dbbd1010b69c80876896195b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concur">8bb2f933dbbd1010b69c80876896195b</sys_scope>
+        <sys_update_name>sys_app_application_07fd6fbbdbb15010b69c8087689619e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-11 15:56:28</sys_updated_on>
+        <title>First</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Concur">8bb2f933dbbd1010b69c80876896195b</application>
+        <file_path/>
+        <instance_id>2b900e35dba933043050ac44d496194d</instance_id>
+        <instance_name>dev86099</instance_name>
+        <name>sys_app_application_07fd6fbbdbb15010b69c8087689619e2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>First</name><order>100</order><roles>x_509812_concur.first_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-11 15:56:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>07fd6fbbdbb15010b69c8087689619e2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>First</sys_name><sys_overrides/><sys_package display_value="Concur" source="x_509812_concur">8bb2f933dbbd1010b69c80876896195b</sys_package><sys_policy/><sys_scope display_value="Concur">8bb2f933dbbd1010b69c80876896195b</sys_scope><sys_update_name>sys_app_application_07fd6fbbdbb15010b69c8087689619e2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-11 15:56:28</sys_updated_on><title>First</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-1757955876</payload_hash>
+        <record_name>First</record_name>
+        <reverted_from/>
+        <source>cfb2b173dbbd1010b69c80876896195c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-11 15:56:28</sys_created_on>
+        <sys_id>83fd6fbbdbb15010b69c8087689619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1733e9795a80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-11 15:56:28</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>cbfd6fbbfcb15010048d8e5cb0c417e3</update_guid>
+        <update_guid_history>cbfd6fbbfcb15010048d8e5cb0c417e3:-1757955876</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="First">45a6ee84db4a5010b69c8087689619ae</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-12 05:23:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>2488398efb4d4d329228d19d1dd42189</sys_id>
+        <sys_metadata>07fd6fbbdbb15010b69c8087689619e2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>First</sys_name>
+        <sys_package display_value="Concur" source="x_509812_concur">8bb2f933dbbd1010b69c80876896195b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Concur">8bb2f933dbbd1010b69c80876896195b</sys_scope>
+        <sys_scope_delete display_value="">0b49eba72e0e45b280b61edb98dc11f9</sys_scope_delete>
+        <sys_update_name>sys_app_application_07fd6fbbdbb15010b69c8087689619e2</sys_update_name>
+        <sys_update_version display_value="sys_app_application_07fd6fbbdbb15010b69c8087689619e2">83fd6fbbdbb15010b69c8087689619e4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-12 05:23:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

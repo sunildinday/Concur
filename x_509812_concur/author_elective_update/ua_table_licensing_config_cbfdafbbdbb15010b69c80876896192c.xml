@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_509812_concur_first</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-11 15:56:29</sys_created_on>
+        <sys_id>cbfdafbbdbb15010b69c80876896192c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_509812_concur_first</sys_name>
+        <sys_package display_value="Concur" source="x_509812_concur">8bb2f933dbbd1010b69c80876896195b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Concur">8bb2f933dbbd1010b69c80876896195b</sys_scope>
+        <sys_update_name>ua_table_licensing_config_cbfdafbbdbb15010b69c80876896192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-11 15:56:29</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Concur">8bb2f933dbbd1010b69c80876896195b</application>
+        <file_path/>
+        <instance_id>2b900e35dba933043050ac44d496194d</instance_id>
+        <instance_name>dev86099</instance_name>
+        <name>ua_table_licensing_config_cbfdafbbdbb15010b69c80876896192c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_509812_concur_first</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-11 15:56:29</sys_created_on><sys_id>cbfdafbbdbb15010b69c80876896192c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_509812_concur_first</sys_name><sys_package display_value="Concur" source="x_509812_concur">8bb2f933dbbd1010b69c80876896195b</sys_package><sys_policy/><sys_scope display_value="Concur">8bb2f933dbbd1010b69c80876896195b</sys_scope><sys_update_name>ua_table_licensing_config_cbfdafbbdbb15010b69c80876896192c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-11 15:56:29</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>907822182</payload_hash>
+        <record_name>x_509812_concur_first</record_name>
+        <reverted_from/>
+        <source>cfb2b173dbbd1010b69c80876896195c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-11 15:56:29</sys_created_on>
+        <sys_id>43fdafbbdbb15010b69c80876896192e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1733e9799310000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-11 15:56:29</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>8bfdafbb64b15010dde61209fa89402d</update_guid>
+        <update_guid_history>8bfdafbb64b15010dde61209fa89402d:907822182</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-12 05:22:11</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>3079eee407b34a00b7fca515e1440000</sys_id>
+        <sys_metadata>cbfdafbbdbb15010b69c80876896192c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_509812_concur_first</sys_name>
+        <sys_package display_value="Concur" source="x_509812_concur">8bb2f933dbbd1010b69c80876896195b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Concur">8bb2f933dbbd1010b69c80876896195b</sys_scope>
+        <sys_scope_delete display_value="">0b49eba72e0e45b280b61edb98dc11f9</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_cbfdafbbdbb15010b69c80876896192c</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_cbfdafbbdbb15010b69c80876896192c">43fdafbbdbb15010b69c80876896192e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-12 05:22:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
